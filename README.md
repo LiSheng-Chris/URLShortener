@@ -36,6 +36,8 @@ npm run deploy
 
 ## webApplication
 
+testSite: https://smartapp-60069.web.app/
+
 ## Install the dependencies
 
 ```bash
